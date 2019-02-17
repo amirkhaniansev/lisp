@@ -1,2 +1,11 @@
 # lisp
-Experiments in functional programming paradigm.
+
+In computer science, **functional programming** is a programming **paradigm** — a style of building the structure and elements of computer programs — that treats computation as the evaluation of mathematical functions and avoids **changing-state** and **mutable data**. It is a declarative programming paradigm, which means programming is done with expressions or declarations instead of statements. Functional code is **idempotent**, the output value of a function depends only on the arguments that are passed to the function, so calling a function **f** twice with the same value for an argument x produces the same result **f(x)** each time; this is in contrast to procedures depending on a local or global state, which may produce different results at different times when called with the same arguments but a different program state. **Functions** in functional programming are like **idempotent operators** in linear algebra.
+
+Experiments will mostly be done in **lisp** - a functional programming language, which originates in 1958:
+
+Կոմպյուտերային գիտության մեջ **ֆունկցիոնալ ծրագրավորումը** ծրագրավորման **պարադիգմ** է՝ ծրագրերի տարրերի և էլեմենտների կառուցման ձև, որը հաշվարկին վերաբերում է որպես մաթեմատիկական ֆունկցիաները արժեքների որոնում և խուսափում է **փոփոխական վիճակից և տվյալներից**։ Այն ծրագրավորման դեկլարատիվ պարադիգմ է, ինչը նշանակում է որ ծրագրավորումը իրականացվում է արտահայտությունների կամ նկարագրությունների միջոցով հայտարարման փոխարեն։ Ֆունկցիոնալ կոդը **իդեմպոտենտ** է, ասել է թե՝ ֆուկցիայի արժեքը կախված է միայն այն արգումենտներից, որոնք փոխանցվել են ֆուկցիային, ուստի **f** ֆունկցիայի կանչը x արգումենտի նույն արժեքով առաջացնում է նույն **f(x)** արժեքը ամեն անգամ։ Սա հակադրության մեջ է մտնում պրոդերուալ պարադիգմին, որտեղ կախված լոկալ կամ գլոբալ վիճակից, նույն պրոցեդուրան կարող է գեներացնել տարբեր արժեքներ՝ կանչվելով տարբեր անգամներ նույն արգումենտով, բայց տարբեր ծրագրային վիճակով։ **Ֆունկցիաները** ֆունկցիոնալ ծրագրավորման մեջ նման են **իդեմպոտենտ օպերատորներին** գծային հանրահաշվում։
+
+Էքսպերիմենտները հիմնականում կարվեն **Լիսպով**՝ ֆունկցիոնալ ծրագրավորման լեզու, որը սկզմնավորվել է 1958-ին։
+
+Credits : https://en.wikipedia.org/wiki/Functional_programming
