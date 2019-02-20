@@ -1,5 +1,5 @@
 ; MIT License
-; License notion can be seen here : https://github.com/amirkhaniansev/lisp/LICENSE
+; License notion can be seen here : https://github.com/amirkhaniansev/lisp/blob/master/LICENSE
 ; calculates factorial of the given n number
 
 (defun factorial_simple (n)
